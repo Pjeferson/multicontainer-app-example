@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-export default OtherPage = () => {
+export default function OtherPage() {
   return (
     <div>
       Some other page \0v0/
